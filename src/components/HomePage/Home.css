@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+
+.homeHeader {
+    font-family: Anton;
+    color: rebeccapurple;
+    position: absolute;
+    top: 20%;
+    left: 42%;
+}
+
+.btn {
+    font-family: Anton;
+    color: aqua;
+    background-color: rebeccapurple;
+    border: 1px solid aqua;
+    position: absolute;
+    top: 30%;
+    left: 48%;
+    border-radius: 5px;
+    padding: 10px 20px;
+    text-decoration: none;
+    margin: 10px;
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: transparent;
+    color: aqua;
+}

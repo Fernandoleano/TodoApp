@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+.mainHeader {
+    font-family: Anton;
+    color: rebeccapurple;
+    position: absolute;
+    top: 20%;
+    left: 40%;
+}
+
+.inputMain {
+    position: absolute;
+    top: 28%;
+    left: 38%;
+}
+
+.todoList {
+    position: absolute;
+    top: 44%;
+    left: 48%;
+}
