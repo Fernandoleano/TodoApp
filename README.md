@@ -1,5 +1,7 @@
 # TodoApp
 This is a Todo App I made in react also uses sass for stlying very fun!
+Also using vite to create the react-app
+Want to play with it? here is the link: https://todo-app-one-mu.vercel.app/
 
 ![image](https://user-images.githubusercontent.com/68082556/213780692-74ba0c47-c7f9-49f1-9894-dc835e9bfbea.png)
 ![image](https://user-images.githubusercontent.com/68082556/213780722-56f58529-c7c6-4823-807e-db9f94b94620.png)
